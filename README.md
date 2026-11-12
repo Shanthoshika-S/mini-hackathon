@@ -79,18 +79,6 @@ for any report is a full, visible decision trail from "reported" to "cleared."
   status, and draft this README. All generated code was read, run against a
   live database, and manually tested (including via direct HTTP requests
   against the running dev server) before being committed.
-- _[Member — tool]_ — _[what it was used for, one line]_
-- _[Member — tool]_ — _[what it was used for, one line]_
-- _[Member — tool]_ — _[what it was used for, one line]_
-
-## Team & contributions
-
-| Name | Student ID | Area owned | Contribution |
-|---|---|---|---|
-| _[Member 1 name]_ | _[ID]_ | Foundation — schema, validation, auth, seed data | _[fill in at wrap-up]_ |
-| _[Member 2 name]_ | _[ID]_ | Public browsing — report list, detail page, timeline | _[fill in at wrap-up]_ |
-| _[Member 3 name]_ | _[ID]_ | Workflow — officer triage, crew resolution | _[fill in at wrap-up]_ |
-| _[Member 4 name]_ | _[ID]_ | Dashboard, landing page, polish | _[fill in at wrap-up]_ |
 
 ## Quick start
 
